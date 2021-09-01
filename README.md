@@ -20,7 +20,7 @@ ConvertCase was made just in python, and use just a lib:
 
 ## Installation
 
-Convertcase requires [Python](https://www.python.org/) v3.7+ to run.
+Convertcase requires [Python](https://www.python.org/) v3.9+ to run.
 
 Install the dependencies and devDependencies and start the program.
 
