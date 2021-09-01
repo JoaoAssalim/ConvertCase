@@ -3,7 +3,7 @@
 This program is made to help everyone need to convert you text to another font size type. This program can convert you lower text to upper text in few seconds.
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
-![](https://img.shields.io/github/stars/JoaoAssalim/ConvertCase [ConvertCase](https://github.com/JoaoAssalim/ConvertCase)
+![](https://img.shields.io/github/stars/JoaoAssalim/ConvertCase) ![]
 
 Bill is a intelligent bot, it can chat, search and send messages to you.
 
