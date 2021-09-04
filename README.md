@@ -5,8 +5,6 @@ This program is made to help everyone need to convert you text to another font s
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 ![](https://img.shields.io/github/stars/JoaoAssalim/ConvertCase)
 
-Bill is a intelligent bot, it can chat, search and send messages to you.
-
 - Convert font size types to you
 - Speed Up your Job
 - Fast and easy to use
